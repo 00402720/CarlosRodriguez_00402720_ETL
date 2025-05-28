@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost.AdventureWorks.sa"
+  DTS:DTSID="{C36E1DA7-DF2C-4CD1-A4E4-FF2165F44A35}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=localhost;User ID=sa;Initial Catalog=AdventureWorks;Provider=MSOLEDBSQL.1;Application Name=SSIS-CarlosRodriguez_00402720-{C36E1DA7-DF2C-4CD1-A4E4-FF2165F44A35}localhost.AdventureWorks.sa;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAFtbOXb/Qr0ibegFisd0Q6wAAAAACAAAAAAAQZgAAAAEAACAAAAD+zS5CFNDQcsj6Gaa2lhHEdnC0tDE1D5m2eV7ywnWC6QAAAAAOgAAAAAIAACAAAAAZwm4E27FkGXJT2BYzLQkuDr5OmQf1QTEWes3ZKBpseIAAAACCfvqQsqkdl6Mx96vPFFv/6rCxhgJsN0m3y36XNA6fHZsrbOMWel4o+VIplImEHpQPmguIQxYR2NdYvr8Ppk+aTeFcvCtUjWxvXXuxN8z24+z/Qc7qZnZbbSQAIzv8TAKjVpydIuUaki3Rnt18zq6IQzCQw306YsoP5HcUQksrL0AAAACeTNahUU7rEDecY9LYlCBeW4+G0jGbeFdc8XkDnRKUDRlLQIcVFe29wNwOt0PHUrEGzQ6ae9V65ilt4TOHrzxl</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
